@@ -1,91 +1,122 @@
 # Hola, soy Francisco Duarte 👋
 
-Soy estudiante de Tecnicatura Universitaria en Programación en UTN, enfocado en **desarrollo frontend**, **soporte IT** y proyectos maker bajo la idea de **FD Labs**.
+Soy estudiante de la **Tecnicatura Universitaria en Programación en UTN** y estoy construyendo mi perfil profesional en tecnología con foco en **Python, backend y automatización**.
 
-Estoy construyendo mi camino hacia mi primera oportunidad formal en IT combinando:
+También tengo experiencia práctica en desarrollo web, soporte IT, Linux y proyectos maker, lo que me permite trabajar tanto con software como con hardware.
 
-- Desarrollo web con HTML, CSS, JavaScript, React y Vite.
-- Soporte técnico, Windows/Linux y diagnóstico de problemas.
-- Automatización, hardware, Arduino/ESP32 e IA local.
-- Proyectos reales, documentados y desplegados.
+## 🎯 Objetivo actual
 
-## 🚀 Objetivo actual
+Prepararme para mi primera oportunidad formal como:
 
-Consolidarme como **Frontend Developer Jr / Trainee**, fortaleciendo JavaScript, React, Git/GitHub, buenas prácticas y deploys reales.
+- Backend Python Trainee / Junior
+- Desarrollador de automatizaciones
+- Soporte de aplicaciones con scripting
+- QA Automation Trainee
+- Implementación o integraciones Junior
 
-También me interesa crecer en proyectos donde pueda unir software con hardware: dashboards, automatizaciones, asistentes locales, IoT y herramientas propias.
+Actualmente estoy fortaleciendo **Python, SQL, programación orientada a objetos, bases de datos, Git y Linux**.
 
-## 🧰 Stack y herramientas
+## 🧰 Tecnologías y herramientas
 
+**Programación:** Python, JavaScript, C#, C++ básico  
 **Frontend:** HTML, CSS, JavaScript, React, Vite  
-**Herramientas:** Git, GitHub, VS Code, npm, Node.js  
-**Sistemas:** Windows, Linux  
-**Programación:** C++, Python básico  
-**Maker/Hardware:** Arduino Pro Micro, ESP32, sensores, impresión 3D  
-**Intereses:** IA local, homelab, automatización, robótica, soporte IT
+**Bases de datos:** SQL en formación académica  
+**Herramientas:** Git, GitHub, VS Code / Code-OSS, npm, Node.js  
+**Sistemas:** Linux, Windows, soporte y diagnóstico técnico  
+**Maker / Hardware:** Arduino Pro Micro, ESP32, sensores e impresión 3D
 
-## 📌 Proyectos destacados
+## 📚 Formación actual
+
+En la UTN estoy cursando:
+
+- Programación II con C# y programación orientada a objetos
+- Base de Datos
+- Probabilidad y Estadística
+- Inglés
+
+En paralelo estudio Python orientado a backend, automatización y construcción de proyectos reales.
+
+## 🚀 Proyectos destacados
 
 ### 💼 Portfolio personal
-Sitio web donde presento mi perfil, proyectos, tecnologías, CV y enlaces de contacto.
+Sitio web donde presento mi perfil, experiencia, proyectos y enlaces profesionales.
 
-- HTML, CSS, JavaScript
 - Diseño responsive
-- Deploy en GitHub Pages / Vercel
+- HTML, CSS y JavaScript
+- Deploy en GitHub Pages
 
-🔗 Portfolio: https://franduartedev.github.io/Portafolio/  
-📁 Código: https://github.com/franduartedev/Portafolio
+🔗 [Ver portfolio](https://franduartedev.github.io/Portafolio/)  
+📁 [Ver código](https://github.com/franduartedev/Portafolio)
 
 ---
 
 ### 💸 Control de Gastos JS
-Aplicación web para registrar gastos, calcular total, eliminar registros y persistir datos con `localStorage`.
+Aplicación web para registrar gastos, calcular el total, eliminar registros y conservar la información en el navegador.
 
 - JavaScript vanilla
 - DOM, eventos y formularios
 - Arrays de objetos
 - Validaciones
-- localStorage
+- LocalStorage
 
-🔗 Demo: https://franduartedev.github.io/control-gastos-js/  
-📁 Código: https://github.com/franduartedev/control-gastos-js
+🔗 [Ver demo](https://franduartedev.github.io/control-gastos-js/)  
+📁 [Ver código](https://github.com/franduartedev/control-gastos-js)
 
 ---
 
 ### 🛰️ SATURN Control
-Aplicación de escritorio para controlar un macro deck físico casero basado en Arduino Pro Micro.
+Proyecto de software y hardware para controlar un macro deck físico basado en Arduino Pro Micro.
 
-- Python + Flask
-- App de escritorio
+- Python y Flask
+- Aplicación de escritorio
 - Arduino Pro Micro como dispositivo HID
 - Macros, perfiles y acciones configurables
-- Proyecto FD Labs
+- Proyecto maker de FD Labs
 
-📁 Código: https://github.com/franduartedev/saturn-control
+📁 [Ver código](https://github.com/franduartedev/saturn-control)
 
 ---
 
-### 🎬 Buscador de Películas
-Aplicación web que consume una API externa para buscar películas y mostrar resultados dinámicos.
+### ⚒️ Forja 3D
+Prototipo web asistido por IA para crear modelos 3D personalizables y exportarlos en formato STL.
 
-- JavaScript
+Mi trabajo en el proyecto incluye definición del producto, experiencia de usuario, pruebas funcionales, detección de errores e iteración de mejoras.
+
+📁 [Ver proyecto](https://github.com/franduartedev/forja-3d)
+
+---
+
+### ⚛️ Pokémon React
+Aplicación web desarrollada con React y Vite para consultar información de Pokémon mediante una API externa.
+
+- React
+- Vite
+- Estado y componentes
 - Fetch API
-- async/await
-- Manejo de errores y estados de carga
+- Renderizado dinámico
 
-📁 Código: https://github.com/franduartedev/buscador-peliculas
+📁 [Ver código](https://github.com/franduartedev/pokemonreact)
 
-## 📚 Actualmente estudiando
+## 🧪 Próximos proyectos
 
-- JavaScript avanzado para frontend.
-- React con Vite.
-- Buenas prácticas de Git/GitHub.
-- C++ en UTN.
-- Linux y soporte IT.
-- Arduino/ESP32 para proyectos maker.
+- Gestor de misiones en Python
+- Automatización de catálogos desde Excel a PDF
+- API con Python, FastAPI y PostgreSQL
+- Panel React conectado a una API propia
+- Proyecto de telemetría con ESP32
+
+## 🌐 Idiomas
+
+- Español: nativo
+- Portugués: intermedio
+- Inglés: básico, actualmente en formación
 
 ## 📫 Contacto
 
-- Portfolio: https://franduartedev.github.io/Portafolio/
-- LinkedIn: https://www.linkedin.com/in/francisco-duarte-dev/
+- Portfolio: [franduartedev.github.io/Portafolio](https://franduartedev.github.io/Portafolio/)
+- LinkedIn: [Francisco Duarte](https://www.linkedin.com/in/francisco-duarte-dev/)
 - Email: fran.duarte.dev@gmail.com
+
+---
+
+> Construyendo proyectos reales, aprendiendo fundamentos sólidos y documentando el camino hacia mi primera oportunidad en IT.
