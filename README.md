@@ -1,122 +1,73 @@
 # Hola, soy Francisco Duarte 👋
 
-Soy estudiante de la **Tecnicatura Universitaria en Programación en UTN** y estoy construyendo mi perfil profesional en tecnología con foco en **Python, backend y automatización**.
+Soy estudiante de la **Tecnicatura Universitaria en Programación en UTN** y desarrollador web freelance de Buenos Aires, Argentina.
 
-También tengo experiencia práctica en desarrollo web, soporte IT, Linux y proyectos maker, lo que me permite trabajar tanto con software como con hardware.
+Tengo experiencia llevando proyectos web desde el relevamiento con clientes hasta la publicación, configuración de dominio, SSL, formularios e indexación. Trabajo principalmente con **JavaScript, React, HTML y CSS**, y actualmente estoy profundizando en **Python, SQL, programación orientada a objetos y backend**.
 
-## 🎯 Objetivo actual
+## Perfil profesional
 
-Prepararme para mi primera oportunidad formal como:
+- Desarrollo web freelance desde 2023
+- Experiencia con clientes y proyectos publicados en producción
+- Trabajo diario con Linux, Git y GitHub
+- Experiencia remota con sistemas internos, atención a usuarios y registro de incidencias
+- Busco oportunidades como desarrollador junior, trainee backend o soporte de aplicaciones
 
-- Backend Python Trainee / Junior
-- Desarrollador de automatizaciones
-- Soporte de aplicaciones con scripting
-- QA Automation Trainee
-- Implementación o integraciones Junior
+## Tecnologías
 
-Actualmente estoy fortaleciendo **Python, SQL, programación orientada a objetos, bases de datos, Git y Linux**.
+**Desarrollo:** JavaScript, HTML5, CSS3, React, Vite  
+**En formación:** Python, C#, SQL y programación orientada a objetos  
+**Herramientas:** Git, GitHub, npm, VS Code, Vercel y GitHub Pages  
+**Entorno:** Linux, consumo de APIs, DOM, LocalStorage, diseño responsive y SEO técnico básico
 
-## 🧰 Tecnologías y herramientas
+## Proyectos destacados
 
-**Programación:** Python, JavaScript, C#, C++ básico  
-**Frontend:** HTML, CSS, JavaScript, React, Vite  
-**Bases de datos:** SQL en formación académica  
-**Herramientas:** Git, GitHub, VS Code / Code-OSS, npm, Node.js  
-**Sistemas:** Linux, Windows, soporte y diagnóstico técnico  
-**Maker / Hardware:** Arduino Pro Micro, ESP32, sensores e impresión 3D
+### La Esencia del Alma
 
-## 📚 Formación actual
+Sitio profesional desarrollado y entregado para una clienta real. Incluye diseño responsive, formulario de contacto, dominio propio, SSL, despliegue e indexación.
 
-En la UTN estoy cursando:
+- [Sitio publicado](https://laesenciadelalma.com)
+- [Código](https://github.com/franduartedev/demopsi)
 
-- Programación II con C# y programación orientada a objetos
-- Base de Datos
-- Probabilidad y Estadística
-- Inglés
+### Control de Gastos
 
-En paralelo estudio Python orientado a backend, automatización y construcción de proyectos reales.
+Aplicación creada con JavaScript para registrar y eliminar gastos, calcular totales, validar formularios y conservar la información con LocalStorage.
 
-## 🚀 Proyectos destacados
+- [Demo](https://franduartedev.github.io/control-gastos-js/)
+- [Código](https://github.com/franduartedev/control-gastos-js)
 
-### 💼 Portfolio personal
-Sitio web donde presento mi perfil, experiencia, proyectos y enlaces profesionales.
+### Pokémon React
 
-- Diseño responsive
-- HTML, CSS y JavaScript
-- Deploy en GitHub Pages
+Aplicación construida con React y Vite para consultar información de Pokémon mediante PokéAPI. Trabaja con componentes, estado, Fetch API y renderizado dinámico.
 
-🔗 [Ver portfolio](https://franduartedev.github.io/Portafolio/)  
-📁 [Ver código](https://github.com/franduartedev/Portafolio)
+- [Demo](https://pokemonreact-nine.vercel.app)
+- [Código](https://github.com/franduartedev/pokemonreact)
 
----
+### Portfolio personal
 
-### 💸 Control de Gastos JS
-Aplicación web para registrar gastos, calcular el total, eliminar registros y conservar la información en el navegador.
+Sitio responsive desarrollado con HTML, CSS y JavaScript para presentar mi experiencia, proyectos y medios de contacto.
 
-- JavaScript vanilla
-- DOM, eventos y formularios
-- Arrays de objetos
-- Validaciones
-- LocalStorage
+- [Portfolio](https://franduartedev.github.io/Portafolio/)
+- [Código](https://github.com/franduartedev/Portafolio)
 
-🔗 [Ver demo](https://franduartedev.github.io/control-gastos-js/)  
-📁 [Ver código](https://github.com/franduartedev/control-gastos-js)
+## Formación
 
----
+- **Tecnicatura Universitaria en Programación - UTN** — en curso
+- Responsive Web Design — freeCodeCamp
+- Introduction to Front-End Development — Meta / Coursera
+- CSS Avanzado — NUCBA
+- Introducción a la Programación — Código Facilito
 
-### 🛰️ SATURN Control
-Proyecto de software y hardware para controlar un macro deck físico basado en Arduino Pro Micro.
-
-- Python y Flask
-- Aplicación de escritorio
-- Arduino Pro Micro como dispositivo HID
-- Macros, perfiles y acciones configurables
-- Proyecto maker de FD Labs
-
-📁 [Ver código](https://github.com/franduartedev/saturn-control)
-
----
-
-### ⚒️ Forja 3D
-Prototipo web asistido por IA para crear modelos 3D personalizables y exportarlos en formato STL.
-
-Mi trabajo en el proyecto incluye definición del producto, experiencia de usuario, pruebas funcionales, detección de errores e iteración de mejoras.
-
-📁 [Ver proyecto](https://github.com/franduartedev/forja-3d)
-
----
-
-### ⚛️ Pokémon React
-Aplicación web desarrollada con React y Vite para consultar información de Pokémon mediante una API externa.
-
-- React
-- Vite
-- Estado y componentes
-- Fetch API
-- Renderizado dinámico
-
-📁 [Ver código](https://github.com/franduartedev/pokemonreact)
-
-## 🧪 Próximos proyectos
-
-- Gestor de misiones en Python
-- Automatización de catálogos desde Excel a PDF
-- API con Python, FastAPI y PostgreSQL
-- Panel React conectado a una API propia
-- Proyecto de telemetría con ESP32
-
-## 🌐 Idiomas
+## Idiomas
 
 - Español: nativo
-- Portugués: intermedio
-- Inglés: básico, actualmente en formación
+- Inglés: intermedio (B1)
+- Portugués: básico-intermedio (A2/B1)
 
-## 📫 Contacto
+## Contacto
 
-- Portfolio: [franduartedev.github.io/Portafolio](https://franduartedev.github.io/Portafolio/)
-- LinkedIn: [Francisco Duarte](https://www.linkedin.com/in/francisco-duarte-dev/)
-- Email: fran.duarte.dev@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/francisco-duarte-dev/)
+- [Portfolio](https://franduartedev.github.io/Portafolio/)
+- **Email:** fran.duarte.dev@gmail.com
+- **Ubicación:** Buenos Aires, Argentina
 
----
-
-> Construyendo proyectos reales, aprendiendo fundamentos sólidos y documentando el camino hacia mi primera oportunidad en IT.
+> Aprendiendo fundamentos sólidos, construyendo proyectos reales y creciendo hacia el desarrollo de software profesional.
