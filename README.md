@@ -2,13 +2,26 @@
 
 # Francisco Duarte
 
-**Software developer building desktop apps, creative tools, game tech and hardware.**
+### Software developer · Product builder · FD Labs
 
-Buenos Aires, Argentina · UTN Programming student · Linux daily driver
+**Desktop apps · Creative tools · Game tech · Linux · Hardware**
+
+Buenos Aires, Argentina · Estudiante de Programación en UTN
 
 [![PULSAR](https://img.shields.io/badge/PULSAR-0.2.0--beta.1-3b82f6?style=for-the-badge)](https://github.com/franduartedev/pulsar)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Francisco_Duarte-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/francisco-duarte-dev/)
-[![Email](https://img.shields.io/badge/Email-fran.duarte.dev%40gmail.com-444?style=for-the-badge)](mailto:fran.duarte.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Francisco_Duarte-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-duarte-dev/)
+[![Email](https://img.shields.io/badge/Email-Contacto-444?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fran.duarte.dev@gmail.com)
+
+<br>
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt_6-41CD52?style=flat-square&logo=qt&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
 </div>
 
@@ -18,46 +31,71 @@ Buenos Aires, Argentina · UTN Programming student · Linux daily driver
 
 Soy desarrollador de software y estudiante de la **Tecnicatura Universitaria en Programación en UTN**.
 
-Me gusta construir productos completos: desde la idea y la arquitectura hasta la interfaz, las pruebas, el empaquetado y la publicación. Hoy estoy especialmente enfocado en **software nativo, herramientas creativas, videojuegos, Linux y proyectos que mezclan software con hardware**.
+Me interesa construir productos completos: **idea → arquitectura → implementación → pruebas → empaquetado → publicación**. Hoy estoy especialmente enfocado en software nativo, herramientas creativas, videojuegos, Linux y proyectos que mezclan software con hardware.
 
 Trabajo y experimento bajo la identidad **FD Labs**.
 
+> **Objetivo:** construir software que salga del prototipo y llegue a manos de usuarios reales.
+
+---
+
 ## 🚀 Proyecto principal — PULSAR
 
-**PULSAR** es un editor de video de escritorio nativo escrito en **C++ + Qt 6 + FFmpeg**.
+<div align="center">
 
-La primera beta pública ya está disponible para Linux x86_64.
+### [PULSAR — Native Video Editor](https://github.com/franduartedev/pulsar)
 
-<p align="center">
-  <a href="https://github.com/franduartedev/pulsar">
-    <img src="https://raw.githubusercontent.com/franduartedev/pulsar/main/docs/images/pulsar-editor.png" alt="PULSAR video editor" width="900">
-  </a>
-</p>
+**C++ · Qt 6 · FFmpeg · Linux x86_64**
 
-**Incluye:** timeline multipista, corte y trim, edición directa en el Viewer, picture-in-picture, títulos, audio separado, waveforms, fades, guardado/autosave y exportación MP4 H.264/AAC.
+Primera beta pública disponible.
 
-[**Ver PULSAR**](https://github.com/franduartedev/pulsar) · [**Descargar beta**](https://github.com/franduartedev/pulsar/releases/tag/v0.2.0-beta.1) · [**Reportar feedback**](https://github.com/franduartedev/pulsar/issues)
+<a href="https://github.com/franduartedev/pulsar">
+  <img src="https://raw.githubusercontent.com/franduartedev/pulsar/main/docs/images/pulsar-editor.png" alt="PULSAR video editor" width="900">
+</a>
 
-## 🧪 Otros proyectos
+<br>
 
-### [FORJA 3D](https://github.com/franduartedev/forja-3d)
-Editor 3D web abierto y accesible para diseñar piezas imprimibles sin entrar de lleno en un CAD tradicional.
+[![Repo](https://img.shields.io/badge/Ver_repositorio-181717?style=for-the-badge&logo=github)](https://github.com/franduartedev/pulsar)
+[![Release](https://img.shields.io/badge/Descargar_beta-0.2.0--beta.1-2563EB?style=for-the-badge)](https://github.com/franduartedev/pulsar/releases/tag/v0.2.0-beta.1)
+[![Issues](https://img.shields.io/badge/Feedback-Issues-8B5CF6?style=for-the-badge)](https://github.com/franduartedev/pulsar/issues)
 
-- plantillas paramétricas y editor libre;
-- operaciones booleanas y transformación 3D;
-- exportación STL, 3MF y STEP;
-- arquitectura preparada para integrar slicing e impresión.
+</div>
 
-### [SATURN Control](https://github.com/franduartedev/saturn-control)
-Macro pad DIY de 6 teclas con **Arduino Pro Micro + Python/Flask**, perfiles y macros para Windows y Linux.
+PULSAR es un editor de video de escritorio nativo con:
 
-- dispositivo HID real;
-- firmware propio;
-- panel local de configuración;
-- instalador Windows y soporte Linux.
+- timeline multipista;
+- corte, trim, snapping, undo/redo;
+- edición directa en el Viewer y picture-in-picture;
+- títulos, imágenes y transición cross-dissolve;
+- separación de audio, waveforms, fades, mute/solo;
+- guardado, autosave y recuperación;
+- exportación MP4 H.264/AAC.
 
-### [La Esencia del Alma](https://github.com/franduartedev/demopsi)
-Sitio profesional desarrollado y entregado para una clienta real, con responsive design, dominio, SSL, formularios y publicación en producción.
+---
+
+## 🧪 Otros proyectos destacados
+
+| Proyecto | Qué demuestra |
+|---|---|
+| **[FORJA 3D](https://github.com/franduartedev/forja-3d)** | Editor 3D web para diseñar piezas imprimibles. Geometría, booleanos, transformaciones y exportación STL/3MF/STEP. |
+| **[SATURN Control](https://github.com/franduartedev/saturn-control)** | Macro pad DIY con Arduino Pro Micro + Python/Flask. HID real, firmware propio, perfiles, Windows y Linux. |
+| **[La Esencia del Alma](https://github.com/franduartedev/demopsi)** | Proyecto web entregado a una clienta real: responsive, dominio, SSL, formularios y publicación en producción. |
+
+---
+
+## 🧠 Cómo trabajo
+
+Uso herramientas de IA como **copiloto de ingeniería** para acelerar investigación, revisión de código, planificación de pruebas, documentación y exploración de alternativas.
+
+Las decisiones de producto, arquitectura, integración, validación y publicación quedan bajo criterio humano.
+
+**Proceso habitual:**
+
+`problema → diseño → implementación → tests → prueba real → release`
+
+La IA me ayuda a iterar más rápido; **no reemplaza la responsabilidad técnica sobre lo que publico**.
+
+---
 
 ## 🛠️ Stack actual
 
@@ -73,37 +111,39 @@ JavaScript · TypeScript · React · HTML · CSS · Vite
 **Hardware / embedded**  
 Arduino · HID · sensores · electrónica experimental
 
-**Herramientas**  
+**Engineering tools**  
 Git · GitHub · CMake · Ninja · VS Code · testing automatizado
 
-## 🔭 En qué estoy trabajando
+---
 
-- llevar **PULSAR** a más usuarios y plataformas;
-- explorar una versión para **Windows**;
-- investigar herramientas creativas y motion graphics para **PULSAR FX**;
-- desarrollar tecnología de juego y simulación;
-- seguir construyendo proyectos que mezclen software, 3D y hardware.
+## 🔭 Ahora mismo
+
+- llevando **PULSAR** a usuarios reales;
+- preparando el camino hacia **Windows**;
+- investigando **PULSAR FX** para motion graphics;
+- desarrollando herramientas de simulación y game tech;
+- explorando nuevas apps móviles y proyectos software + hardware.
+
+---
 
 ## 🎓 Formación
 
-- **Tecnicatura Universitaria en Programación — UTN** *(en curso)*
+**Tecnicatura Universitaria en Programación — UTN** *(en curso)*
 
 ## 🌎 Idiomas
 
-- Español — nativo
-- Inglés — intermedio
-- Portugués — básico/intermedio
-
-## 📫 Contacto
-
-- [LinkedIn](https://www.linkedin.com/in/francisco-duarte-dev/)
-- [GitHub](https://github.com/franduartedev)
-- **fran.duarte.dev@gmail.com**
+Español — nativo · Inglés — intermedio · Portugués — básico/intermedio
 
 ---
 
 <div align="center">
 
-**Construyendo software que pueda salir del prototipo y convertirse en algo que la gente use.**
+### 📫 Contacto
+
+[LinkedIn](https://www.linkedin.com/in/francisco-duarte-dev/) · [GitHub](https://github.com/franduartedev) · [Email](mailto:fran.duarte.dev@gmail.com)
+
+<br>
+
+**Construyendo productos, aprendiendo en público y publicando lo que funciona.**
 
 </div>
