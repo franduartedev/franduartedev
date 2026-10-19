@@ -1,73 +1,109 @@
-# Hola, soy Francisco Duarte 👋
+<div align="center">
 
-Soy estudiante de la **Tecnicatura Universitaria en Programación en UTN** y desarrollador web freelance de Buenos Aires, Argentina.
+# Francisco Duarte
 
-Tengo experiencia llevando proyectos web desde el relevamiento con clientes hasta la publicación, configuración de dominio, SSL, formularios e indexación. Trabajo principalmente con **JavaScript, React, HTML y CSS**, y actualmente estoy profundizando en **Python, SQL, programación orientada a objetos y backend**.
+**Software developer building desktop apps, creative tools, game tech and hardware.**
 
-## Perfil profesional
+Buenos Aires, Argentina · UTN Programming student · Linux daily driver
 
-- Desarrollo web freelance desde 2023
-- Experiencia con clientes y proyectos publicados en producción
-- Trabajo diario con Linux, Git y GitHub
-- Experiencia remota con sistemas internos, atención a usuarios y registro de incidencias
-- Busco oportunidades como desarrollador junior, trainee backend o soporte de aplicaciones
+[![PULSAR](https://img.shields.io/badge/PULSAR-0.2.0--beta.1-3b82f6?style=for-the-badge)](https://github.com/franduartedev/pulsar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Francisco_Duarte-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/francisco-duarte-dev/)
+[![Email](https://img.shields.io/badge/Email-fran.duarte.dev%40gmail.com-444?style=for-the-badge)](mailto:fran.duarte.dev@gmail.com)
 
-## Tecnologías
+</div>
 
-**Desarrollo:** JavaScript, HTML5, CSS3, React, Vite  
-**En formación:** Python, C#, SQL y programación orientada a objetos  
-**Herramientas:** Git, GitHub, npm, VS Code, Vercel y GitHub Pages  
-**Entorno:** Linux, consumo de APIs, DOM, LocalStorage, diseño responsive y SEO técnico básico
+---
 
-## Proyectos destacados
+## 👋 Sobre mí
 
-### La Esencia del Alma
+Soy desarrollador de software y estudiante de la **Tecnicatura Universitaria en Programación en UTN**.
 
-Sitio profesional desarrollado y entregado para una clienta real. Incluye diseño responsive, formulario de contacto, dominio propio, SSL, despliegue e indexación.
+Me gusta construir productos completos: desde la idea y la arquitectura hasta la interfaz, las pruebas, el empaquetado y la publicación. Hoy estoy especialmente enfocado en **software nativo, herramientas creativas, videojuegos, Linux y proyectos que mezclan software con hardware**.
 
-- [Sitio publicado](https://laesenciadelalma.com)
-- [Código](https://github.com/franduartedev/demopsi)
+Trabajo y experimento bajo la identidad **FD Labs**.
 
-### Control de Gastos
+## 🚀 Proyecto principal — PULSAR
 
-Aplicación creada con JavaScript para registrar y eliminar gastos, calcular totales, validar formularios y conservar la información con LocalStorage.
+**PULSAR** es un editor de video de escritorio nativo escrito en **C++ + Qt 6 + FFmpeg**.
 
-- [Demo](https://franduartedev.github.io/control-gastos-js/)
-- [Código](https://github.com/franduartedev/control-gastos-js)
+La primera beta pública ya está disponible para Linux x86_64.
 
-### Pokémon React
+<p align="center">
+  <a href="https://github.com/franduartedev/pulsar">
+    <img src="https://raw.githubusercontent.com/franduartedev/pulsar/main/docs/images/pulsar-editor.png" alt="PULSAR video editor" width="900">
+  </a>
+</p>
 
-Aplicación construida con React y Vite para consultar información de Pokémon mediante PokéAPI. Trabaja con componentes, estado, Fetch API y renderizado dinámico.
+**Incluye:** timeline multipista, corte y trim, edición directa en el Viewer, picture-in-picture, títulos, audio separado, waveforms, fades, guardado/autosave y exportación MP4 H.264/AAC.
 
-- [Demo](https://pokemonreact-nine.vercel.app)
-- [Código](https://github.com/franduartedev/pokemonreact)
+[**Ver PULSAR**](https://github.com/franduartedev/pulsar) · [**Descargar beta**](https://github.com/franduartedev/pulsar/releases/tag/v0.2.0-beta.1) · [**Reportar feedback**](https://github.com/franduartedev/pulsar/issues)
 
-### Portfolio personal
+## 🧪 Otros proyectos
 
-Sitio responsive desarrollado con HTML, CSS y JavaScript para presentar mi experiencia, proyectos y medios de contacto.
+### [FORJA 3D](https://github.com/franduartedev/forja-3d)
+Editor 3D web abierto y accesible para diseñar piezas imprimibles sin entrar de lleno en un CAD tradicional.
 
-- [Portfolio](https://franduartedev.github.io/Portafolio/)
-- [Código](https://github.com/franduartedev/Portafolio)
+- plantillas paramétricas y editor libre;
+- operaciones booleanas y transformación 3D;
+- exportación STL, 3MF y STEP;
+- arquitectura preparada para integrar slicing e impresión.
 
-## Formación
+### [SATURN Control](https://github.com/franduartedev/saturn-control)
+Macro pad DIY de 6 teclas con **Arduino Pro Micro + Python/Flask**, perfiles y macros para Windows y Linux.
 
-- **Tecnicatura Universitaria en Programación - UTN** — en curso
-- Responsive Web Design — freeCodeCamp
-- Introduction to Front-End Development — Meta / Coursera
-- CSS Avanzado — NUCBA
-- Introducción a la Programación — Código Facilito
+- dispositivo HID real;
+- firmware propio;
+- panel local de configuración;
+- instalador Windows y soporte Linux.
 
-## Idiomas
+### [La Esencia del Alma](https://github.com/franduartedev/demopsi)
+Sitio profesional desarrollado y entregado para una clienta real, con responsive design, dominio, SSL, formularios y publicación en producción.
 
-- Español: nativo
-- Inglés: intermedio (B1)
-- Portugués: básico-intermedio (A2/B1)
+## 🛠️ Stack actual
 
-## Contacto
+**Desktop / systems**  
+C++ · Qt 6 · FFmpeg · C# · .NET · Linux
+
+**Game development / 3D**  
+Unity · Blender
+
+**Web**  
+JavaScript · TypeScript · React · HTML · CSS · Vite
+
+**Hardware / embedded**  
+Arduino · HID · sensores · electrónica experimental
+
+**Herramientas**  
+Git · GitHub · CMake · Ninja · VS Code · testing automatizado
+
+## 🔭 En qué estoy trabajando
+
+- llevar **PULSAR** a más usuarios y plataformas;
+- explorar una versión para **Windows**;
+- investigar herramientas creativas y motion graphics para **PULSAR FX**;
+- desarrollar tecnología de juego y simulación;
+- seguir construyendo proyectos que mezclen software, 3D y hardware.
+
+## 🎓 Formación
+
+- **Tecnicatura Universitaria en Programación — UTN** *(en curso)*
+
+## 🌎 Idiomas
+
+- Español — nativo
+- Inglés — intermedio
+- Portugués — básico/intermedio
+
+## 📫 Contacto
 
 - [LinkedIn](https://www.linkedin.com/in/francisco-duarte-dev/)
-- [Portfolio](https://franduartedev.github.io/Portafolio/)
-- **Email:** fran.duarte.dev@gmail.com
-- **Ubicación:** Buenos Aires, Argentina
+- [GitHub](https://github.com/franduartedev)
+- **fran.duarte.dev@gmail.com**
 
-> Aprendiendo fundamentos sólidos, construyendo proyectos reales y creciendo hacia el desarrollo de software profesional.
+---
+
+<div align="center">
+
+**Construyendo software que pueda salir del prototipo y convertirse en algo que la gente use.**
+
+</div>
