@@ -1,149 +1,63 @@
-<div align="center">
-
 # Francisco Duarte
 
-### Software developer · Product builder · FD Labs
+**Creador de productos tecnológicos · Fundador de FD Labs · Estudiante de Programación en UTN**
 
-**Desktop apps · Creative tools · Game tech · Linux · Hardware**
+General Belgrano, Buenos Aires, Argentina · Disponible para oportunidades **Trainee/Junior** en Soporte IT, Help Desk, QA o Desarrollo de Software.
 
-Buenos Aires, Argentina · Estudiante de Programación en UTN
+[Portfolio](https://franduartedev.github.io/Portafolio/) · [LinkedIn](https://www.linkedin.com/in/francisco-duarte-dev/) · [Email](mailto:fran.duarte.dev@gmail.com)
 
-[![PULSAR](https://img.shields.io/badge/PULSAR-0.2.0--beta.1-3b82f6?style=for-the-badge)](https://github.com/franduartedev/pulsar)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Francisco_Duarte-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-duarte-dev/)
-[![Email](https://img.shields.io/badge/Email-Contacto-444?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fran.duarte.dev@gmail.com)
+## Perfil
 
-<br>
+Estudio la **Tecnicatura Universitaria en Programación en la UTN** y busco mi primera oportunidad profesional dentro de un equipo IT. Tengo experiencia práctica en desarrollo web freelance, atención a usuarios, soporte de aplicaciones y gestión de incidencias.
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt_6-41CD52?style=flat-square&logo=qt&logoColor=white)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000)
-![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+También soy fundador de **FD Labs**, donde impulso ideas y productos tecnológicos con el lema **Build. Explore. Innovate.** Me interesa llevar una idea desde su definición hasta una experiencia que otras personas puedan probar.
 
-</div>
+## Autoría y uso de inteligencia artificial
 
----
+En productos como **PULSAR**, **FORJA 3D** y **ZONALERO**, mi aporte principal está en la ideación, la visión del producto y la dirección creativa. La implementación técnica de estos proyectos se realizó en gran parte con herramientas de inteligencia artificial.
 
-## 👋 Sobre mí
+Por eso los presento como proyectos de producto impulsados por mí y desarrollados con colaboración de IA; no como prueba de que escribí individualmente todo el código o definí cada decisión de arquitectura. Mis conocimientos técnicos se describen aparte y pueden revisarse en mi formación, en los repositorios y en sus documentos de ejecución y pruebas.
 
-Soy desarrollador de software y estudiante de la **Tecnicatura Universitaria en Programación en UTN**.
+## Experiencia práctica
 
-Me interesa construir productos completos: **idea → arquitectura → implementación → pruebas → empaquetado → publicación**. Hoy estoy especialmente enfocado en software nativo, herramientas creativas, videojuegos, Linux y proyectos que mezclan software con hardware.
+- **Desarrollo web freelance** desde 2023: participación en proyectos web publicados para clientes.
+- **Operación de plataforma digital** desde 2024: atención a usuarios, validación de operaciones, registro de incidencias y resolución de consultas.
 
-Trabajo y experimento bajo la identidad **FD Labs**.
+## Proyectos
 
-> **Objetivo:** construir software que salga del prototipo y llegue a manos de usuarios reales.
-
----
-
-## 🚀 Proyecto principal — PULSAR
-
-<div align="center">
-
-### [PULSAR — Native Video Editor](https://github.com/franduartedev/pulsar)
-
-**C++ · Qt 6 · FFmpeg · Linux x86_64**
-
-Primera beta pública disponible.
-
-<a href="https://github.com/franduartedev/pulsar">
-  <img src="https://raw.githubusercontent.com/franduartedev/pulsar/main/docs/images/pulsar-editor.png" alt="PULSAR video editor" width="900">
-</a>
-
-<br>
-
-[![Repo](https://img.shields.io/badge/Ver_repositorio-181717?style=for-the-badge&logo=github)](https://github.com/franduartedev/pulsar)
-[![Release](https://img.shields.io/badge/Descargar_beta-0.2.0--beta.1-2563EB?style=for-the-badge)](https://github.com/franduartedev/pulsar/releases/tag/v0.2.0-beta.1)
-[![Issues](https://img.shields.io/badge/Feedback-Issues-8B5CF6?style=for-the-badge)](https://github.com/franduartedev/pulsar/issues)
-
-</div>
-
-PULSAR es un editor de video de escritorio nativo con:
-
-- timeline multipista;
-- corte, trim, snapping, undo/redo;
-- edición directa en el Viewer y picture-in-picture;
-- títulos, imágenes y transición cross-dissolve;
-- separación de audio, waveforms, fades, mute/solo;
-- guardado, autosave y recuperación;
-- exportación MP4 H.264/AAC.
-
----
-
-## 🧪 Otros proyectos destacados
-
-| Proyecto | Qué demuestra |
+| Proyecto | Enfoque |
 |---|---|
-| **[FORJA 3D](https://github.com/franduartedev/forja-3d)** | Editor 3D web para diseñar piezas imprimibles. Geometría, booleanos, transformaciones y exportación STL/3MF/STEP. |
-| **[SATURN Control](https://github.com/franduartedev/saturn-control)** | Macro pad DIY con Arduino Pro Micro + Python/Flask. HID real, firmware propio, perfiles, Windows y Linux. |
-| **[La Esencia del Alma](https://github.com/franduartedev/demopsi)** | Proyecto web entregado a una clienta real: responsive, dominio, SSL, formularios y publicación en producción. |
+| [PULSAR](https://github.com/franduartedev/pulsar) | Producto de edición de video de escritorio; C++, Qt 6 y FFmpeg. Incluye README bilingüe, documentación, pruebas y beta pública para Linux. |
+| [FORJA 3D](https://github.com/franduartedev/forja-3d) · [demo](https://forja-3d.frn81.chatgpt.site) | Editor web de diseño 3D con exportación STL, 3MF y STEP. |
+| [SATURN Control](https://github.com/franduartedev/saturn-control) | Proyecto de macro pad con Arduino Pro Micro y aplicación local Python/Flask; su README documenta montaje y validación por sistema operativo. |
+| [La Esencia del Alma](https://github.com/franduartedev/demopsi) · [sitio](https://laesenciadelalma.com/) | Proyecto web relacionado con un sitio profesional publicado. |
+| [Solutions Tech Studios](https://github.com/franduartedev/solutions-tech-studios) · [demo](https://franduartedev.github.io/solutions-tech-studios/) | Web demostrativa configurable para estudios profesionales, con cuatro rubros y parámetros de personalización. |
+| [Portafolio](https://github.com/franduartedev/Portafolio) · [sitio](https://franduartedev.github.io/Portafolio/) | Sitio personal con perfil, experiencia, proyectos y contacto. |
+| **ZONALERO** | Proyecto de simulador argentino en desarrollo bajo FD Labs. La implementación se trabaja en colaboración con herramientas de IA. |
 
----
+## Conocimientos técnicos
 
-## 🧠 Cómo trabajo
+**Lenguajes:** C# · C++ · Python · SQL · JavaScript · TypeScript  
+**Web:** React · HTML · CSS  
+**Herramientas y entornos:** Git · GitHub · Windows · Linux
 
-Uso herramientas de IA como **copiloto de ingeniería** para acelerar investigación, revisión de código, planificación de pruebas, documentación y exploración de alternativas.
+Los proyectos tienen distintos alcances y niveles de asistencia. La lista refleja conocimientos y experiencia práctica, no una afirmación de dominio profesional en cada tecnología.
 
-Las decisiones de producto, arquitectura, integración, validación y publicación quedan bajo criterio humano.
+## Formación e idiomas
 
-**Proceso habitual:**
+- **Tecnicatura Universitaria en Programación — UTN** *(en curso)*
+- **Español:** nativo · **Inglés:** B1 · **Portugués:** B1
 
-`problema → diseño → implementación → tests → prueba real → release`
+## Objetivo
 
-La IA me ayuda a iterar más rápido; **no reemplaza la responsabilidad técnica sobre lo que publico**.
-
----
-
-## 🛠️ Stack actual
-
-**Desktop / systems**  
-C++ · Qt 6 · FFmpeg · C# · .NET · Linux
-
-**Game development / 3D**  
-Unity · Blender
-
-**Web**  
-JavaScript · TypeScript · React · HTML · CSS · Vite
-
-**Hardware / embedded**  
-Arduino · HID · sensores · electrónica experimental
-
-**Engineering tools**  
-Git · GitHub · CMake · Ninja · VS Code · testing automatizado
-
----
-
-## 🔭 Ahora mismo
-
-- llevando **PULSAR** a usuarios reales;
-- preparando el camino hacia **Windows**;
-- investigando **PULSAR FX** para motion graphics;
-- desarrollando herramientas de simulación y game tech;
-- explorando nuevas apps móviles y proyectos software + hardware.
-
----
-
-## 🎓 Formación
-
-**Tecnicatura Universitaria en Programación — UTN** *(en curso)*
-
-## 🌎 Idiomas
-
-Español — nativo · Inglés — intermedio · Portugués — básico/intermedio
+Ingresar al sector IT en un puesto **Trainee o Junior**. Me interesan especialmente Soporte IT, Help Desk, QA y Desarrollo de Software. Busco oportunidades remotas, híbridas o presenciales.
 
 ---
 
 <div align="center">
 
-### 📫 Contacto
+**FD Labs — Build. Explore. Innovate.**
 
-[LinkedIn](https://www.linkedin.com/in/francisco-duarte-dev/) · [GitHub](https://github.com/franduartedev) · [Email](mailto:fran.duarte.dev@gmail.com)
-
-<br>
-
-**Construyendo productos, aprendiendo en público y publicando lo que funciona.**
+Aprendiendo, creando productos y compartiendo el proceso con honestidad.
 
 </div>
