@@ -8,6 +8,8 @@
 
 [🌐 Portfolio](https://franduartedev.github.io/Portafolio/) · [💼 LinkedIn](https://www.linkedin.com/in/francisco-duarte-dev/) · [✉️ Email](mailto:fran.duarte.dev@gmail.com)
 
+**🟢 Disponible para oportunidades Trainee/Junior**
+
 </div>
 
 ---
@@ -17,6 +19,14 @@
 Estudio la **Tecnicatura Universitaria en Programación en la UTN** y busco mi primera oportunidad profesional dentro de un equipo IT. Tengo experiencia práctica en desarrollo web freelance, atención a usuarios, soporte de aplicaciones y gestión de incidencias.
 
 También soy fundador de **FD Labs**, donde impulso ideas y productos tecnológicos. Me interesa llevar una idea desde su definición hasta una experiencia que otras personas puedan probar.
+
+## 💡 Qué puedo aportar hoy
+
+- Atención a usuarios, soporte de aplicaciones y registro de incidencias.
+- Documentación clara de proyectos, instrucciones de ejecución y seguimiento de problemas.
+- Conocimientos prácticos de desarrollo web, APIs, Git y sistemas Windows/Linux.
+- Mentalidad de producto: transformar una idea en una experiencia que se pueda probar y mejorar.
+- Formación continua y disposición para aprender dentro de un equipo IT.
 
 ## 🤖 Autoría y uso de inteligencia artificial
 
@@ -52,17 +62,63 @@ Los proyectos tienen distintos alcances y niveles de asistencia. La lista reflej
 - **Desarrollo web freelance** desde 2023: participación en proyectos web publicados para clientes.
 - **Operación de plataforma digital** desde 2024: atención a usuarios, validación de operaciones, registro de incidencias y resolución de consultas.
 
-## 🚀 Proyectos destacados
+## 🚀 Productos impulsados bajo FD Labs
 
-| Proyecto | Enfoque |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎬 PULSAR
+
+<a href="https://github.com/franduartedev/pulsar">
+<img src="https://raw.githubusercontent.com/franduartedev/pulsar/main/docs/images/pulsar-editor.png" alt="Interfaz de PULSAR" width="420">
+</a>
+
+Producto de edición de video de escritorio para Linux; C++, Qt 6 y FFmpeg. Incluye documentación, pruebas y beta pública.
+
+</td>
+<td width="50%" valign="top">
+
+### 🧩 FORJA 3D
+
+<a href="https://github.com/franduartedev/forja-3d">
+<img src="https://raw.githubusercontent.com/franduartedev/forja-3d/main/tests/e2e/visual-smoke.spec.ts-snapshots/landing-desktop-linux.png" alt="Landing de FORJA 3D" width="420">
+</a>
+
+Editor web de diseño 3D con exportación STL, 3MF y STEP. [Ver demo](https://forja-3d.frn81.chatgpt.site).
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎛️ SATURN Control
+
+<a href="https://github.com/franduartedev/saturn-control">
+<img src="https://raw.githubusercontent.com/franduartedev/saturn-control/main/docs/images/arduino-pro-micro-wiring.png" alt="Cableado de SATURN Control" width="420">
+</a>
+
+Macro pad DIY con Arduino Pro Micro y aplicación local Python/Flask. El README documenta montaje y validación.
+
+</td>
+<td width="50%" valign="top">
+
+### 🏁 ZONALERO
+
+Proyecto de simulador argentino en desarrollo bajo FD Labs. Mi aporte principal es la idea, la visión del producto y la dirección creativa; la implementación se trabaja con herramientas de IA.
+
+</td>
+</tr>
+</table>
+
+## 🌐 Proyectos web y práctica técnica
+
+| Proyecto | Tipo y evidencia |
 |---|---|
-| 🎬 [PULSAR](https://github.com/franduartedev/pulsar) | Producto de edición de video de escritorio; C++, Qt 6 y FFmpeg. Incluye README bilingüe, documentación, pruebas y beta pública para Linux. |
-| 🧩 [FORJA 3D](https://github.com/franduartedev/forja-3d) · [demo](https://forja-3d.frn81.chatgpt.site) | Editor web de diseño 3D con exportación STL, 3MF y STEP. |
-| 🎛️ [SATURN Control](https://github.com/franduartedev/saturn-control) | Proyecto de macro pad con Arduino Pro Micro y aplicación local Python/Flask; su README documenta montaje y validación por sistema operativo. |
 | 🌿 [La Esencia del Alma](https://github.com/franduartedev/demopsi) · [sitio](https://laesenciadelalma.com/) | Proyecto web relacionado con un sitio profesional publicado. |
 | 🧱 [Solutions Tech Studios](https://github.com/franduartedev/solutions-tech-studios) · [demo](https://franduartedev.github.io/solutions-tech-studios/) | Web demostrativa configurable para estudios profesionales, con cuatro rubros y parámetros de personalización. |
 | 🖥️ [Portafolio](https://github.com/franduartedev/Portafolio) · [sitio](https://franduartedev.github.io/Portafolio/) | Sitio personal con perfil, experiencia, proyectos y contacto. |
-| 🏁 **ZONALERO** | Proyecto de simulador argentino en desarrollo bajo FD Labs. La implementación se trabaja en colaboración con herramientas de IA. |
+| 🧪 [Proyectos de práctica](https://github.com/franduartedev?tab=repositories) | Ejercicios de React, JavaScript, APIs, formularios, tareas y persistencia local documentados según su alcance. |
 
 ## 🎓 Formación e idiomas
 
